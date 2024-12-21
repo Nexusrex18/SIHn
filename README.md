@@ -57,8 +57,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/krishi-seva.git
-   cd krishi-seva
+   git clone https://github.com/Nexusrex18/SIHn.git
+   cd SIHn
 
 
 
